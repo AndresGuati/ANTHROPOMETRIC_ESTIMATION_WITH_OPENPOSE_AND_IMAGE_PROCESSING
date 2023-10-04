@@ -19,3 +19,4 @@ DOI Article: 10.5220/0010566505830591
 
 Note: must use COCO pretrained model https://github.com/foss-for-synopsys-dwc-arc-processors/synopsys-caffe-models/raw/master/caffe_models/openpose/caffe_model/pose_iter_440000.caffemodel and pose_deploy_linevec.prototxt for better results
 
+Daniels Force estimation complement can be found in https://github.com/AndresGuati/DANIELS_SCALE_ESTIMATION_WITH_NEURAL_NETWORK.git
