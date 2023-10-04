@@ -16,3 +16,6 @@ Contributions from the community are welcome! Feel free to enhance the repositor
 
 LINK Article: https://www.scitepress.org/Papers/2021/105665/105665.pdf
 DOI Article: 10.5220/0010566505830591
+
+Note: must use COCO pretrained model https://github.com/foss-for-synopsys-dwc-arc-processors/synopsys-caffe-models/raw/master/caffe_models/openpose/caffe_model/pose_iter_440000.caffemodel and pose_deploy_linevec.prototxt for better results
+
