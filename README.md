@@ -1,0 +1,2 @@
+# ANTHROPOMETRIC_ESTIMATION_WITH_OPENPOSE_AND_IMAGE_PROCESSING
+This repository is a comprehensive resource for anthropometric estimation using OpenPose and image processing techniques
